@@ -2,6 +2,10 @@
 
 GitLabとの連携機能を提供するModel Context Protocol (MCP) サーバーです。GitLabの特定のプロジェクトからパイプラインの失敗情報やマージリクエストへの指摘事項を取得し、AIアシスタントに提供します。
 
+<a href="https://glama.ai/mcp/servers/@owayo/gitlab-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@owayo/gitlab-mcp-server/badge" alt="https://github.com/owayo/gitlab-mcp-server MCP server" />
+</a>
+
 ## 概要
 
 このMCPサーバーは、GitLabのAPIを利用して以下の情報をAIアシスタントに提供します：
